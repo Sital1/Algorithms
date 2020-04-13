@@ -1,0 +1,10 @@
+bracelet 1 25
+ring 1 20
+hat 1 8
+hammer 5 5 
+phone 2 80
+tablet 4 160
+watch 1 30
+television 50 300 
+camera 10 100
+laptop 8 200
