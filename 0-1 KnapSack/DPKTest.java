@@ -1,7 +1,7 @@
 /**
  * Used to test the functionality of the DPKnapsack class
  *
- * @author  J Cordova
+
  * @version 1.0
  *
  */
